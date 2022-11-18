@@ -14,7 +14,7 @@ function ReusableForm(props){
           name="origin"
           placeholder="Origin" />
           <input
-          type="text"
+          type="number"
           name="price"
           placeholder="Price/lb" />
           <input
@@ -22,7 +22,7 @@ function ReusableForm(props){
           name="roast"
           placeholder="Roast" />
           <input
-          type="text"
+          type="number"
           name="pounds"
           placeholder="pounds" />
           <button type="submit">{props.buttonText}</button>

@@ -9,9 +9,9 @@ function NewCoffeeForm(props){
     props.onNewCoffeeCreation({
       name: event.target.name.value,
       origin: event.target.origin.value,
-      price: event.target.price.value,
+      price: parseInt(event.target.price.value),
       roast: event.target.roast.value,
-      pounds: event.target.pounds.value,
+      pounds: parseInt(event.target.pounds.value),
       id: v4()
     })
   }
