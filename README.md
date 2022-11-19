@@ -28,7 +28,7 @@ Requested User Specifications (user stories):
   - As a user, I want to see how many pounds are left in a coffee Burlap Sack. A full coffee Burlap Sack has roughly 130 pounds.
   - As a user, I want to be able to click a button next to a coffee whenever I sell a pound of it. This should decrease the number of pounds by 1. Pounds should not be able to go below 0.
 ## Diagram
-<img src='./src/img/inventorytrackerproj.drawio' alt='page plan'/>
+<img src='./src/img/inventorytrackerproj.drawio.png' alt='page plan'/>
 
 ## Setup/Installation Requirements
 
