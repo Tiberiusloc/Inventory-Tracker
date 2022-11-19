@@ -25,6 +25,13 @@ class CoffeeControl extends React.Component {
     })
   }
 
+  handleRestockCoffee = (coffee) => {
+    coffee.pounds += 130
+    this.setState({
+      selectedCoffee: coffee
+    })
+  }
+
   handleSellCoffee = (coffee) => {
     coffee.pounds -= 1;
     this.setState({
@@ -86,7 +93,7 @@ class CoffeeControl extends React.Component {
       buttonText="Return to Coffee List Edit"
     }
     else if(this.state.selectedCoffee != null) {
-      currentlyVisibleState = <CoffeeDetail coffee = {this.state.selectedCoffee} onClickingEdit = {this.handleEditClick} onClickingSell = {this.handleSellCoffee} onClickingDelete = {this.handleDeletingCoffee} />
+      currentlyVisibleState = <CoffeeDetail coffee = {this.state.selectedCoffee} onClickingEdit = {this.handleEditClick} onClickingSell = {this.handleSellCoffee} onClickingDelete = {this.handleDeletingCoffee} onClickingRestock = {this.handleRestockCoffee} />
       buttonText = "Return To Coffee List"
     }
     else if(this.state.formVisibleOnPage){

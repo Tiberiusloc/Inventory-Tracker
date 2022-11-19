@@ -16,6 +16,7 @@ function ReusableForm(props){
           <input
           type="number"
           name="price"
+          min="0"
           placeholder="Price/lb" />
           <input
           type="text"
@@ -24,6 +25,7 @@ function ReusableForm(props){
           <input
           type="number"
           name="pounds"
+          min="0"
           placeholder="pounds" />
           <button type="submit">{props.buttonText}</button>
       </form>

@@ -2,7 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 
 function CoffeeDetail(props){
-  const { coffee, onClickingSell, onClickingDelete }= props;
+  const { coffee, onClickingSell, onClickingDelete, onClickingRestock }= props;
+
+  // function handleRestockFormSubmission(event){
+  //   event.preventDefault();
+  // }
 
   if(coffee.pounds <= 0){
     return(
@@ -15,6 +19,7 @@ function CoffeeDetail(props){
       <p>Sorry, this item is currently sold out!</p>
       <button onClick={ props.onClickingEdit }>Update Coffee</button>
       <button onClick={() => onClickingDelete(coffee.id)}>Delete Coffee</button>
+      <button onClick={() => onClickingRestock(coffee)}>Restock</button>
       </React.Fragment>
     )
   } else if (coffee.pounds <= 10){
@@ -29,6 +34,7 @@ function CoffeeDetail(props){
       <button onClick={ () => onClickingSell(coffee) }>Sell</button>
       <button onClick={ props.onClickingEdit }>Update Coffee</button>
       <button onClick={() => onClickingDelete(coffee.id)}>Delete Coffee</button>
+      <button onClick={() => onClickingRestock(coffee)}>Restock</button>
     </React.Fragment>
     )
   }
@@ -51,7 +57,8 @@ CoffeeDetail.propTypes = {
   coffee: PropTypes.object,
   onClickingEdit: PropTypes.func,
   onClickingSell: PropTypes.func,
-  onClickingDelete: PropTypes.func
+  onClickingDelete: PropTypes.func,
+  onClickingRestock: PropTypes.func
 }
 
 export default CoffeeDetail;
