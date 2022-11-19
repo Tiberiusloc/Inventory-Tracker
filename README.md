@@ -1,3 +1,42 @@
+# StarBlocks
+
+#### This Epicodus independent project allows the user to track available coffee and amount of coffee beans left in them
+
+#### Tiberius Lockett
+
+## Technologies Used
+
+* JavaScript
+* Node Package Manager
+* React
+* CSS
+* HTML
+
+## Description
+This application was created to show understanding of building single page web apps with React js Library. This application contains full CRUD functionality, allowing the user to:
+  - track how many coffee beans are left in a Burlap Sack
+  - add new types of Coffee
+  - update Coffee
+  - delete Coffee
+  - sell pounds of coffee by 1 pound 
+  - add restock/ restock is around 130 lbs
+
+Requested User Specifications (user stories):
+  - As a user, I want to see a list/menu of all available coffee. For each Burlap Sack of Coffee, I want to see its name, origin, roast, price.
+  - As a user, I want to submit a form to add a new coffee to a list.
+  - As a user, I want to be able to click on a coffee to see its detail page.
+  - As a user, I want to see how many pounds are left in a coffee Burlap Sack. A full coffee Burlap Sack has roughly 130 pounds.
+  - As a user, I want to be able to click a button next to a coffee whenever I sell a pound of it. This should decrease the number of pounds by 1. Pounds should not be able to go below 0.
+## Diagram
+<img src='./src/img/inventorytracker.drawio' alt='page plan'/>
+
+## Setup/Installation Requirements
+
+* Download or clone [this](https://github.com/Tiberiusloc/Inventory-Tracker) repository to your local machine
+* Open the root project directory in the terminal
+* Run the command '$ npm install' to install the needed plugins and packages
+* Open the application by running the command '$ npm run start'.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +107,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Known Bugs
+
+* _No known issues_
+
+## License
+[GNU GPL3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## Contact Information
+Tiberius Lockett <tlockett680@gmail.com>
+
+Copyright (c) _11/2022_ _Tiberius Lockett_

@@ -1,0 +1,112 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZqX2KAMUVEPaNSoZWOMJ" name="Page-1">
+        <mxGraphModel dx="765" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#66FFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="293.75" width="748.75" height="838.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-3" value="Coffee Control" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="59.38" y="370" width="720" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-4" value="Navbar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="5" y="280" width="840" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-5" value="App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="5" y="220" width="840" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="-162.5" y="685" width="567.5" height="172.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-7" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="35" y="685" width="565" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-8" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="682.5" width="565" height="177.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-9" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="684.37" width="565" height="171.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-10" value="List of all Coffee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="59.38" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-11" value="Name:&lt;br&gt;Origin:&lt;br&gt;Price:&lt;br&gt;Roast:&lt;br&gt;Pounds:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="59.38" y="600" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-12" value="Name:&lt;br&gt;Origin:&lt;br&gt;Price:&lt;br&gt;Roast:&lt;br&gt;Pounds:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="59.379999999999995" y="740" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-13" value="Name:&lt;br&gt;Origin:&lt;br&gt;Price:&lt;br&gt;Roast:&lt;br&gt;Pounds:&lt;br&gt;Can click for details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="59.379999999999995" y="880" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-14" value="Add new Coffee form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="257.5" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-15" value="Button to add More coffee / return to list" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="258" y="950" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-16" value="Name&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Name%3A%26lt%3Bbr%26gt%3BOrigin%3A%26lt%3Bbr%26gt%3BPrice%3A%26lt%3Bbr%26gt%3BRost%3A%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2259.379999999999995%22%20y%3D%22740%22%20width%3D%22120%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="258" y="620" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-17" value="Origin:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="257" y="680" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-18" value="Price:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="255.5" y="740" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-19" value="Roast" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="255.5" y="807.5" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-20" value="Pounds: 0 &amp;gt;=" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="870" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-21" value="Details Of Coffee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="462.5" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-23" value="Name&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Name%3A%26lt%3Bbr%26gt%3BOrigin%3A%26lt%3Bbr%26gt%3BPrice%3A%26lt%3Bbr%26gt%3BRost%3A%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2259.379999999999995%22%20y%3D%22740%22%20width%3D%22120%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460.5" y="610" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-24" value="Origin:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="461.5" y="680" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-25" value="Price:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460.5" y="740" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-26" value="Roast" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="462.5" y="800" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-27" value="Pounds: 0 &amp;gt;=" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="464.5" y="857.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-28" value="Button to buy or restock by specified amount / update / delete" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460.5" y="950" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-29" value="button to take to add coffee form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="63.88" y="1020" width="111" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-30" value="Update Coffee Form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="662.5" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-31" value="Name&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Name%3A%26lt%3Bbr%26gt%3BOrigin%3A%26lt%3Bbr%26gt%3BPrice%3A%26lt%3Bbr%26gt%3BRost%3A%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2259.379999999999995%22%20y%3D%22740%22%20width%3D%22120%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="662.5" y="610" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-32" value="Origin:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="662.5" y="680" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-33" value="Price:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="662.5" y="745" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-34" value="Roast" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="662.5" y="805" width="122" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-35" value="Pounds: 0 &amp;gt;=" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="664.5" y="867.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_moGqOQTLsoBeh4TTvEP-36" value="Button To update coffee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="664.5" y="960" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
